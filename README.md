@@ -1,8 +1,7 @@
 
-[](https://raw.githubusercontent.com/unstateschool/unstateschool/menu/Background%20negro.jpg)
+![](https://raw.githubusercontent.com/unstateschool/unstateschool/menu/Logo.jpg)
 
-
-### Hi there 👋
+### Hola 👋
 
 <!--
 **unstateschool/unstateschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
