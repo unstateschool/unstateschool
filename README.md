@@ -4,17 +4,14 @@
 ### Hola 👋
 
 
-El soporte es **muy** importante, con las donaciones haremos que un perezozo como **unstatesloth** pueda seguir trayendo contenido para difundir a usuarios crypto y seguro se sentira mejor el mismo con el apoyo recibido. :sparkling_heart:
+El soporte es **muy** importante, con las donaciones haremos que un perezozo como **unstatesloth** pueda seguir trayendo contenido para difundir a usuarios crypto y seguro se sentira mejor consigo mismo con el apoyo recibido. :sparkling_heart:
 
-Si desea apoyar este proyecto, puede enviar una doación a la dirección:
+Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 - **[0x85D10d3c539bC4bbE13fd1631Fa09D14e742Eb71](https://etherscan.io/address/0x85D10d3c539bC4bbE13fd1631Fa09D14e742Eb71))** — ERC20 & ETH [unstatesloth.eth](https://etherscan.io/name-lookup-search?id=unstatesloth.eth)
 
-- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
 
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
 
-También pueden hacer donaciones a las direcciones que mencionadas en [este repositorio](https://github.com/OffcierCia/support)!
 
 #
 
@@ -34,20 +31,7 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 |       Billeteras                     | [Acceder](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
 |          DEX                         | [Acceder](https://github.com/unstateschool/unstateschool#dex)                                                             |
 |       portafolio                     | [Acceder](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
-|       zk-snarks                      | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
-|  Lecturas adicionales                | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-|       Seguridad                      | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-|         DeFi                         | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-|         ENS                          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-|         NFT                          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-|      Stable Coins                    | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-|   Información General                | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-|      Side Chains                     | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-|         MEV                          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-|     Herramientas                     | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-|        ETH 2.0                       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-|      Front End                       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-|  Gestión de Proyecto                 | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
+
 
 #
 
@@ -175,24 +159,17 @@ Si quieres apoyar mi trabajo, también puedes enviarme una donación a alguna de
 
 #
 
-Las donaciones de los usuarios han sido y siguen siendo mi principal fuente de ingresos. Ayuda a evitar afiliaciones y compromisos. Realmente me importa lo que hago y me alegro de que te guste! También puedes comprar las obras de mi buen amigo y artista; todas las ganancias se destinarán a crear un libro sobre blockchain con un diseño único:
 
-- [opensea.io/collection/regullion-collection](https://opensea.io/collection/regullion-collection)
-
-¡Espero que mis consejos te hayan ayudado a ganar y ahorrar mucho dinero! En nuestro mundo de Entropía dominante, la información significa mucho y se la doy gratis. También quiero recordarles a todos mis enemigos y haters que solo soy un escritor y mi apodo es solo un intento de concienciar a la gente sobre el problema de la seguridad. Llámalo canto del cisne o un grito del corazón, pero me gusta lo que hago.
-
-¡Me gustaría informarle que también hago pedidos privados para investigaciones en cadena de hacks e incidentes! ¡La mayoría de los casos relacionados terminaron con éxito! Por un pequeño % de los fondos devueltos o de la donación, llevaré a cabo una investigación por usted, le aconsejaré sobre los pasos a seguir y lo enviaré por el camino correcto.
 
 Muchísimas gracias. ¡Estoy muy feliz y emocionado de ayudar a todos y cada uno de ustedes! ¡Muchas gracias por su apoyo!
 
 
 #
 
-- [Revise mi cancal de Telegram](https://t.me/officer_cia)
-- [Sigueme en Twitter](https://twitter.com/officer_cia)
-- [Siga todas mis actividades](https://t.me/officer_cia/296)
-- [Todas mis redes](https://t.me/officer_cia/296)
+Desarrollado por **Unstatesloth**
+- [Revise el grupo de Telegram](https://t.me/officer_cia)
+- [Sigueme en Twitter](https://twitter.com/unstatesloth)
 
-##
 
-(👍 ͡❛ ͜ʖ ͡❛)👍 Gracias! 
+
+
