@@ -53,7 +53,7 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 
 |         Tema           | Acceso Directo                                                                                                            |
 | :--------------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|         Bases          | [Acceder](https://github.com/unstateschool/unstateschool#basico)                                                   |
+|         Bases          | [Acceder](https://github.com/unstateschool/unstateschool#bases)                                                   |
 |         dApps          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
 |       Frameworks       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
 |       zk-snarks        | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
