@@ -29,33 +29,33 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 
 #
 
-|         Tema           | Acceso Directo                                                                                                            |
-| :--------------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|         Bases          | [Acceder](https://github.com/unstateschool/unstateschool#bases)                                                   |
-|         dApps          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
-|       Frameworks       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
-|       zk-snarks        | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
-|  Lecturas adicionales  | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-|       Seguridad        | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-|         DeFi           | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-|         ENS            | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-|         NFT            | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-|      Stable Coins      | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-|   Información General  | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-|      Side Chains       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-|         MEV            | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-|     Herramientas       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-|        ETH 2.0         | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-|      Front End         | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-|  Gestión de Proyecto   | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
+|         Tema                         | Acceso Directo                                                                                                            |
+| :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------- |
+|       Billeteras                     | [Acceder](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
+|         dApps                        | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
+|       Frameworks                     | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
+|       zk-snarks                      | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
+|  Lecturas adicionales                | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
+|       Seguridad                      | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
+|         DeFi                         | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
+|         ENS                          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
+|         NFT                          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
+|      Stable Coins                    | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
+|   Información General                | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
+|      Side Chains                     | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
+|         MEV                          | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
+|     Herramientas                     | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
+|        ETH 2.0                       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
+|      Front End                       | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+|  Gestión de Proyecto                 | [Acceder](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
 #
 
 
 
-# Bases:
+# Billeteras:
 
-#### Conceptos generals
+#### Conceptos generales
 
 - Aprenda los conceptos básicos de las Tecnologia del Ledger (Libro mayor) Distribuido (del inlés *Distributed Ledger Technology (DLT)*)
 - Protocolo Bitcoin [explicado](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a) (en inglés)
