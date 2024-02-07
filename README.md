@@ -31,6 +31,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 |       Billeteras                     | [Acceder](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
 |          DEX                         | [Acceder](https://github.com/unstateschool/unstateschool#dex)                                                             |
 |       portafolio                     | [Acceder](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
+|         Analisis                     | [Acceder](https://github.com/unstateschool/unstateschool#analisis)                                                        |
 
 
 #
@@ -125,6 +126,31 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [DotMarketCap](https://www.dotmarketcap.com/)
 - [Coinmarketcap](https://coinmarketcap.com/es/)
 - [Geniidata](https://geniidata.com/ordinals/)
+
+#
+
+## Analisis
+
+- [Nansen](https://www.nansen.ai/?utm_source=linkinbio&utm_medium=social&utm_campaign=home_page) Analisis de cadenas 
+- [Token Terminal](https://tokenterminal.com/) Seguimiento de proyectos 
+- [DropsTab](https://dropstab.com/)
+- [CoinMarketCap](https://coinmarketcap.com/portfolio-tracker/) Seguimiento de proyectos 
+- [DotMarketCap](https://www.dotmarketcap.com/) Seguimiento de proyectos 
+- [Cypher Hunter](https://www.cypherhunter.com/es/) 
+- [Gecko Terminal](https://www.geckoterminal.com/es) Seguimiento de proyectos en DEX 
+- [Crunchbase](https://www.crunchbase.com/)
+- [Dune Analytics](https://dune.com/browse/dashboards) Analisis de cadenas 
+- [Arkham](https://platform.arkhamintelligence.com/) Seguimiento de billeteras 
+- [CoinCarp](https://www.coincarp.com/) Seguimiento de proyectos 
+- [Token Unloks](https://token.unlocks.app/) Desbloqueo de tokens 
+- [Defi LLama](https://defillama.com/) Seguimiento todo en uno 
+- [Nanoly](https://nanoly.com/) Rastreador de bóvedas DeFi 
+- [Chainbroker ](https://chainbroker.io/) Corredor de cadenas 
+- [Meta Sleuth](https://metasleuth.io/) Seguimiento de fondos 
+- [Messari](https://messari.io/) Análisis mercado crypto 
+- [Glass Node](https://studio.glassnode.com/home) Métricas del mercado en cadena 
+- [Santiment](https://santiment.net/) Métricas del mercado en cadena 
+
 
 #
 
