@@ -84,6 +84,12 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 - [Talisman](https://talisman.xyz/)
 - [Nova](https://novawallet.io/)
 
+#### Ordinals
+
+- [Xverse](https://www.xverse.app/)
+- [Unisat](https://unisat.io/)
+- [magic Eden](https://chromewebstore.google.com/detail/magic-eden-wallet/mkpegjkblkkefacfnmkajcjmabijhclg)
+- [Ordinals Wallet](https://ordinalswallet.com/)
 
 #### Cosmos
 
@@ -134,6 +140,8 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 - [CoinGecko](https://www.coingecko.com/) 
 - [DotMarketCap](https://www.dotmarketcap.com/)
 - [Coinmarketcap](https://coinmarketcap.com/es/)
+- [Geniidata](https://geniidata.com/ordinals/)
+
 
 
 ## Aproyarme:
