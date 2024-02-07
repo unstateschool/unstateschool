@@ -55,82 +55,52 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 
 # Billeteras:
 
-#### Conceptos generales
-
-- Aprenda los conceptos básicos de las Tecnologia del Ledger (Libro mayor) Distribuido (del inlés *Distributed Ledger Technology (DLT)*)
-- Protocolo Bitcoin [explicado](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a) (en inglés)
-- [Criptografía de curvas elípticas](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab) (en inglés)
-- Lea el [funcionamiento de una Blockchain](https://www.investopedia.com/terms/b/blockchain.asp) (en inglés)
-- Mire [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8) (Subtítulos en español disponibles)
-- Mire [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)  (Subtítulos en español disponibles)
-- Aprenda las based de [Ciencia de la Computación ](https://github.com/ossu/computer-science) (en inglés)
-
 #### Ethereum
 
-- Aprenda las bases de Ethereum
-- Ethereum Virtual Machine (EVM): turing completo
-- Aprenda acerca de Billeteras, Cuentas (EOA, del inglés *Externally Owned Account*), Claves públicas y privadas
-- Aprenda acerca de las Transacciones, Gas, MetaMask
-- Nodos y Clientes de Ethereum, Geth
-- Infraestructura de Infura
+- [Metamask](https://metamask.io/) 
+- [Brave](https://brave.com/es/wallet)
+- [Trust Wallet ](https://trustwallet.com/es/)
+- [Coinomi ](https://www.coinomi.com/en/)
+- [Omni](https://omni.app/es)
+- [Rainbow](https://rainbow.me/)
+- [Safe](https://safe.global/wallet)
+- [Ambire Wallet](https://www.ambire.com/)
+- [Status](https://status.im/)
+- [Blockwallet](https://blockwallet.io/)
+- [Tally](https://taho.xyz/)
+- [1inch](https://1inch.io/es/wallet/)
+- [Imtoken ](https://token.im/)
+- [Fox Wallet ](https://foxwallet.com/)
+- [Slingshot ](https://slingshot.finance/)
+- [Argent](https://www.argent.xyz/)
+- [braavos](https://braavos.app/)
+- [Exodus](https://www.exodus.com/)
+- [Frame](https://frame.sh/)
+- [Coinbase Wallet ](https://www.coinbase.com/es/wallet)
+- [Airgap](https://airgap.it/)
+- [Gnosis Safe](https://gnosis-safe.io/)
+- [Ambire](https://www.ambire.com/)
+- [Polkadot.js](https://polkadot.js.org/extension/)
+- [Talisman](https://talisman.xyz/)
+- [Nova](https://novawallet.io/)
 
-#### Contratos Inteligentes (Smart Contract)
 
-- Conceptos básicos de un Contrato Inteligente
-- Ciclo de vida de un Contrato Inteligente
-- Lenguajes de programación de alto nivel para Ethereum (**Solidity**, Vyper, LLL, Serpent)
-- Compilar, testear, desplegar Contratos Inteligentes
-- Interactuar con Contratos Inteligentes mediante web3.js o web3.py
-- Lea [Al final, cómo funciona Ethereum? (*How does Ethereum work, anyway?*)](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway) (en inglés)
-- Lea [este artículo](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) (en inglés)
-- Lea la Documentación de [Truffle](https://truffleframework.com/docs/) / [Hardhat](https://hardhat.org/getting-started/) (en inglés)
-- Lea la Documentación de [Web3](https://web3js.readthedocs.io/en/1.0/) / [Ethers](https://docs.ethers.io/v5/) (en inglés)
-- Lea el libro [Dominando a Ethereum (*Mastering Ethereum*)](https://github.com/ethereumbook/ethereumbook) (libro en español disponible en librerías) y vea [este canal](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos) (en inglés)
-- Lea [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) y [Solidity by Example](https://solidity-by-example.org) junto al [Tutorial con Zombies](https://cryptozombies.io) (en inglés)
-- Lea [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf) (en inglés)
+#### Cosmos
 
-#### Estándares de los Contratos Inteligentes
+- [Keplr](https://keplr.app/)
+- [Cosmostation](https://wallet.cosmostation.io/)
 
-- [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
 
-#### Tokens
+#### Polkadot
 
-- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Contrato de Token de activos fungibles.
-- [ERC-721](https://github.com/ethereum/eips/issues/721) - Estándar de Token de activos no fungibles.
-- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Estándar de Token para activos semi-fungible
-- [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Estándar para Token mineable.
-- [ERC-1363](https://eips.ethereum.org/EIPS/eip-1363) - Estándar de Token pagadero.
-- [ERC-4626](https://eips.ethereum.org/EIPS/eip-4626) - Estándar de Bóveda Tokenizada.
-- [Checklist de las interacciones de un Token](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/) (en inglés)
+- [Talisman](https://talisman.xyz/)
+- [Nova](https://novawallet.io/)
+- [Fearless](https://fearlesswallet.io/)
 
-#### Otros
+#### Solana
 
-- [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - Crea un método estandar para publicar y detectar qué interfaces un contrato inteligente implementa.
-- [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - Una interfaz estándar para una cuenta proxy simple.
-- [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - Una interfaz estándar para la propiedad de un contrato.
+- [Phantom](https://phantom.app/)
 
-#### Habilidades Generales de Desarrollo
-
-- Aprenda [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40) (en inglés)
-- Cree un par de repositorios en [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
-- Comparta su código con otras personas.
-- Conozca el protocolo HTTP(S), los métodos (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-- No tenga miedo de usar Google, [Búsquedas avanzadas con Google (*Power Searching with Google*)](http://www.powersearchingwithgoogle.com/)
-- Familiaricese con la terminal ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configure su shell (bash, zsh, fish) 
-- Lea un par de libros acerca de algoritmos y estructuras de datos, blockchain, Ethereum y Solidity
-- Haga este curso [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) (opción de español autogenerado disponible)
-- Tutorial gratuito [Aprendiendo Solidity (*Learning Solidity*)](https://github.com/willitscale/learning-solidity) (en inglés)
-- [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) y [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
-- [Tudelft Repo](https://repository.tudelft.nl)
-
-#### Herramientas para probar:
-
-- [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
-- [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
-- [Remix](https://remix.ethereum.org/) - Entorno de compilación y ejecución online.
-- [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - Codificador y emisor interactivo de contrato inteligente en base al archivo ABI
-- [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimizador de nombres de funciones para reducir costos
-- [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - Paquete TypeScript que provee un AST de Solidity tipificado normalizado junto con las utilidades necesarias para generar el AST (desde Solc) y atravesarlo/manipularlo.
 
 # dApps
 
