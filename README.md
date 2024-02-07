@@ -28,10 +28,13 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 |         Tema                         | Acceso Directo                                                                                                            |
 | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|       Billeteras                     | [Acceder](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
-|          DEX                         | [Acceder](https://github.com/unstateschool/unstateschool#dex)                                                             |
-|       portafolio                     | [Acceder](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
+|         Billeteras                   | [Acceder](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
+|         Intercambios                 | [Acceder](https://github.com/unstateschool/unstateschool#dex)                                                             |
+|         portafolio                   | [Acceder](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
 |         Analisis                     | [Acceder](https://github.com/unstateschool/unstateschool#analisis)                                                        |
+|         Puentes                      | [Acceder](https://github.com/unstateschool/unstateschool#puentes)                                                         |
+|         Revocar Aprovaciones         | [Acceder](https://github.com/unstateschool/unstateschool#revocar-aprovaciones)                                            |
+|         Mensajeria                   | [Acceder](https://github.com/unstateschool/unstateschool#mensajeria)                                            |
 
 
 #
@@ -129,7 +132,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 #
 
-## Analisis
+# Analisis
 
 - [Nansen](https://www.nansen.ai/?utm_source=linkinbio&utm_medium=social&utm_campaign=home_page) Analisis de cadenas 
 - [Token Terminal](https://tokenterminal.com/) Seguimiento de proyectos 
@@ -151,6 +154,63 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Glass Node](https://studio.glassnode.com/home) Métricas del mercado en cadena 
 - [Santiment](https://santiment.net/) Métricas del mercado en cadena 
 
+#
+
+# Puentes
+
+- [Layerswap](https://www.layerswap.io/)
+- [Orbiter](https://www.orbiter.finance/)
+- [Connext](https://bridge.connext.network/)
+- [Solarbeam](https://app.solarbeam.io/bridge)
+- [Celer](https://cbridge.celer.network/#/transfer)
+- [Hop Protocol](https://app.hop.exchange/#/send)
+- [Zapper](https://zapper.fi/bridge)
+- [Lifi Protocol](https://transferto.xyz/)
+- [Hashflow](https://app.hashflow.com/)
+- [Chainhop](https://app.chainhop.exchange/)
+- [Across protocol](https://across.to/bridge)
+- [Boringdao](https://app.boringdao.com/)
+- [Gravity Bridge](https://bridge.blockscape.network/)
+- [Stargate](https://starkgate.starknet.io/)
+- [OmniBTC](https://app.omnibtc.finance/swap)
+- [Bungee](https://bungee.exchange/)
+- [Jumper](https://jumper.exchange/)
+- [Trustlees](https://app.trustless.zone/)
+- [Rhino](https://app.rhino.fi/bridge)
+- [XY Finance](https://app.xy.finance/)
+- [Owlto](https://owlto.finance/bridge)
+- [Polygon zkEVM Bridge](https://wallet.polygon.technology/?redirectOnConnect=%2FzkEVM-Bridge%2Fbridge)
+- [Squid](https://app.squidrouter.com/) (Cosmos - Ethereum)
+
+#
+
+# Revocar aprovaciones
+- [Revoke](https://revoke.cash/es) Revocar permisos 
+- [Redefine](https://dashboard.redefine.net/)
+- [Unrekt](https://app.unrekt.net/) Revocar permisos 
+- [Approved Zone](https://approved.zone/) Revocar permisos 
+- [Cointool](https://cointool.app/approve/eth) Revocar permisos 
+- [Beffy Finance](https://allowance.beefy.finance/) Revocar permisos 
+- [Everrise](https://everrise.com/everrevoke/) Revocar permisos
+- [Defi](https://de.fi/) Revocar permisos 
+- [Stelolabs](https://www.stelolabs.com/) Revocar permisos 
+- [Aegisweb3](https://aegisweb3.com/) Revocar permisos 
+- [Zapper](https://zapper.xyz/revoke) Revocar permisos 
+- [Wallet Guard](https://www.walletguard.app/) Protector de billetera 
+- [Deflux](https://deflux.org/approval) Revocar permisos
+
+#
+
+# Mensajeria
+-  [DeBank](https://debank.com/) Portafolio y mensajería incluida 
+-  [NFT chat](https://nftychat.xyz/universe) Chatea y explora las comunidades web3.
+- [Mailchain](https://app.mailchain.com/register) Tu bandeja de entrada Web3 
+- [Parallel Inbox](https://inb0x.life/) Mensajes de cartera a cartera 
+- [Alter](https://alter.network/) Chatea, envía mensajes y comparte archivos con total privacidad!  
+- [Mail3](https://mail3.me/) Coreo descentralizado
+- [Ethermail](https://ethermail.io/) Corre anónimo y cifrado de cartera a cartera. 
+- [Cmail](http://www.cmail.network/) Correo electrónico Web3 totalmente descentralizado 
+- [Grill Chat](https://grill.chat/hot-chats) Chatea de forma anonima y en cadena 
 
 #
 
