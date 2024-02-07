@@ -4,7 +4,7 @@
 ### Hola 👋
 
 
-El soporte es **muy** importante, con las donaciones haremos que un perezozo como **unstatesloth** pueda seguir trayendo contenido para difundir a usuarios crypto y seguro se sentira mejor consigo mismo con el apoyo recibido. :sparkling_heart:
+El soporte es **muy** importante, con las donaciones haremos que un perezozo como **unstatesloth** pueda seguir trayendo contenido para difundir a usuarios crypto y seguro se sentira mejor consigo mismo con el apoyo recibido. 
 
 Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
@@ -126,47 +126,20 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Coinmarketcap](https://coinmarketcap.com/es/)
 - [Geniidata](https://geniidata.com/ordinals/)
 
-
-
-## Aproyarme:
-
-El apoyo es **muy** importante para mí, con él puedo hacer lo que amo: educar a los usuarios de DeFi y Crypto :sparkling_heart: Primero, unas pocas palabras, queridos amigos... ¡Quiero agradecer a todos los que me enviaron donaciones! ¡Muchas gracias a ustedes, pude soportar la pérdida de mi último trabajo, encontré un nuevo sentido de vida y finalmente comencé a escribir mucho!
-
-Lo mejor es apoyarme directamente donando a mi dirección en Ethereum Main-net o cualquiera de las redes compatibles o a cualquier dirección de la lista a continuación:
-
-[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
-
-
-Si quieres apoyar mi trabajo, también puedes enviarme una donación a alguna de las direcciones siguientes:
-
-- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
-
-- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
-
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
-
-- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
-
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC 
-
-- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
-
-- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
-
-- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
-
-- También puedes apoyarme acuñando uno de mis [Artículos NFT en Mirror](https://officercia.mirror.xyz/)!
-
 #
 
 
-
-Muchísimas gracias. ¡Estoy muy feliz y emocionado de ayudar a todos y cada uno de ustedes! ¡Muchas gracias por su apoyo!
+## Apoyo:
 
 
 #
 
 Desarrollado por **Unstatesloth**
+
+Muchísimas gracias. ¡Estoy muy feliz y emocionado de ayudar a todos y cada uno de ustedes! ¡Muchas gracias!
+
+El apoyo es **muy** importante para mí, con él puedo hacer lo que mas megusta: compartir con los usuarios de Bitcoin y Crypto 
+
 - [Revise el grupo de Telegram](https://t.me/officer_cia)
 - [Sigueme en Twitter](https://twitter.com/unstatesloth)
 
