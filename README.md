@@ -3,23 +3,6 @@
 
 ### Hola 👋
 
-<!--
-**unstateschool/unstateschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 
 El soporte es **muy** importante, con las donaciones haremos que un perezozo como **unstatesloth** pueda seguir trayendo contenido para difundir a usuarios crypto y seguro se sentira mejor el mismo con el apoyo recibido. :sparkling_heart:
 
@@ -41,13 +24,8 @@ También pueden hacer donaciones a las direcciones que mencionadas en [este repo
 
 
 
-
-
-![Roadmap](./DeFiRoadmapnew_es.svg)
-
 # Navegación
 
-**[Navegación Alternativa](https://cia.start.me/p/dlaxD0/ciaofficerv2)** ❗️
 
 #
 
