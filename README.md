@@ -415,8 +415,6 @@ Descubre cómo participar en los airdrops y asegúrate de estar al tanto de las 
 
 #### Agujeros de conejo 
 
-![IMG_2726](https://mataroa.blog/images/73a0e396.jpeg)
-
 
 Una de las mejores maneras de aprender sobre criptomonedas es la práctica personal e involucrarse directamente. Recuerda que el mundo de las criptomonedas es complejo y está en constante evolución. Es importante mantenerse actualizado con las últimas noticias y desarrollos en la industria. Además, siempre ten presente los riesgos asociados con las inversiones en criptomonedas y asegúrate de realizar una investigación adecuada antes de tomar decisiones financieras.
 
