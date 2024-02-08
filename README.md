@@ -34,7 +34,11 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 |         Analisis                     | [Acceder](https://github.com/unstateschool/unstateschool#analisis)                                                        |
 |         Puentes                      | [Acceder](https://github.com/unstateschool/unstateschool#puentes)                                                         |
 |         Revocar Aprovaciones         | [Acceder](https://github.com/unstateschool/unstateschool#revocar-aprovaciones)                                            |
-|         Mensajeria                   | [Acceder](https://github.com/unstateschool/unstateschool#mensajeria)                                            |
+|         Mensajeria                   | [Acceder](https://github.com/unstateschool/unstateschool#mensajeria)                                                      |
+|         Bitcoin Onchain              | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-onchain)                                                 |
+|         Bitcoin Lightning            | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-lightning)                                               |
+|         Más de Bitcoin               | [Acceder](https://github.com/unstateschool/unstateschool#más-de-bitcoin)                                                  |
+|         Airdrops                     | [Acceder](https://github.com/unstateschool/unstateschool#airdrops)                                                        |
 
 
 #
@@ -213,6 +217,241 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Grill Chat](https://grill.chat/hot-chats) Chatea de forma anonima y en cadena 
 
 #
+
+# Bitcoin Onchain
+
+
+> Mientras los gobiernos imprimen, Bitcoin mantiene su escasez.
+
+Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin". Lectura obligada para entender la filosofía de Bitcoin 👉 [whitepaper](https://bitcoin.org/bitcoin.pdf)
+
+**“Tus llaves, tus bitcoin. No tus llaves, no tus bitcoin”**. ([video](https://www.youtube.com/watch?v=vt-zXEsJ61U)) andreas antonopoulos.
+
+
+#### Llaveros - Wallets - Billeteras
+
+-   [Samourai](https://samouraiwallet.com/)
+-   [Sparrow](https://www.sparrowwallet.com/)
+-   [Blue Wallet](https://bluewallet.io/)
+-   [Specter](https://specter.solutions/)
+-   [Green](https://blockstream.com/green/)
+-   [Nunchunk](https://nunchuk.io/)
+-   [Wasabi](https://wasabiwallet.io/)
+-   [Bitcoin Core](https://bitcoincore.org/en/download/)
+-   [Keeper](https://bitcoinkeeper.app/)
+-   [Electrum](https://electrum.org/)
+-   [Fully Noded](https://fullynoded.app/)
+-   [Muun](https://muun.com/es/)
+-   [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/features/)
+-   [Lily Wallet](https://lily-wallet.com/)
+-   [Stack Wallet](https://stackwallet.com/)
+
+#### Hardware Wallets
+
+-   [Bitbox](https://bitbox.swiss/)
+-   [Cobo Vault](https://www.cobo.com/hardware-wallet)
+-   [Coldcard](https://coldcard.com/)
+-   [Passport](https://foundationdevices.com/passport/)
+-   [Seed Signer](https://seedsigner.com/) - Como empezar, paso a paso --> [Post](https://unstateschool.xyz/blog/construir-tu-propio-seedsigner/)
+-   [Specter DIY](https://github.com/cryptoadvance/specter-diy)
+-   [Trezor](https://trezor.io/start)
+
+#### Nodos
+
+- [RoninDojo](https://ronindojo.io/)
+- [RaspiBlitz](https://raspiblitz.org/)
+- [RaspiBolt](https://raspibolt.org/)
+- [Minibolt](https://v2.minibolt.info/home/readme)
+- [Start9](https://start9.com/)
+- [Mynode](https://mynodebtc.com/)
+- [Umbrel](https://umbrel.com/)
+- [Citadel](https://runcitadel.space/)
+- [Ministry of nodes](https://shop.ministryofnodes.com/)
+- [Albercoin](https://forms.komun.org/albercoin-servicio-ronindojo) 
+
+#
+
+# Bitcoin Lightning ⚡
+
+#### Wallets - Billeteras
+
+-   [LNTXBOT](https://telegram.me/lntxbot)
+-   [CoinOS](https://coinos.io/)
+-   [Blixt Wallet](https://blixtwallet.github.io/)
+-   [Simple Bitcoin Wallet](https://sbw.app/)
+-   [Nayuta Core](https://nayuta.co/nayuta-wallet-2022/)
+-   [Zeus LN](https://zeusln.app/)
+-   [Fully Noded](https://fullynoded.app/)
+-   [Blue Wallet](https://bluewallet.io/)
+-   [Phoenix](https://phoenix.acinq.co/)
+-   [Muun](https://muun.com/es/)
+-   [Breez](https://breez.technology/)
+-   [Zap](https://zaphq.io/)
+-   [Spark](https://github.com/shesek/spark-wallet)
+-   [Zebedee](https://zbd.gg/)
+-   [Electrum](https://electrum.org/)
+-   [Lightning App](https://github.com/lightninglabs/lightning-app/releases)
+-   [Get Alby](https://getalby.com/)
+-   [LNTIPS](https://t.me/LightningTipBot)
+-   [Wallet Of Satoshi](https://www.walletofsatoshi.com/)
+-   [Strike](https://strike.me/es/)
+-   [https://cash.app/](https://cash.app/)
+-   [Bitcooin Beach Wallet](https://play.google.com/store/apps/details?id=com.galoyapp&gl=US)
+-   [Chivo](https://www.chivowallet.com/)
+-   [Open Bitcoin Wallet (OBW)](https://github.com/nbd-wtf/obw)
+-   [Valet](https://standardsats.github.io/)
+-   [Bitkit](https://bitkit.to/)
+-   [Thunderhub](https://thunderhub.io/)
+-   [Mash Wallet](http://app.mash.com/wallet)
+-   [Mutuny Wallet](https://app.mutinywallet.com/)
+
+#### Herramientas y Analisis
+
+-   [Amboss](https://amboss.space/es)
+-   [LN Router](https://lnrouter.app/)
+-   [LN Insights](https://lninsights.com/)
+-   [Cheese Robot](https://cheeserobot.org/)
+-   [1ml](https://1ml.com/)
+-   [Lightning Liquidity Swaps](https://lightningnetwork.plus/)
+-   [Terminal](https://terminal.lightning.engineering/)
+-   [Node Match](https://moneni.com/mcb/nodematch)
+-   [LNnodeinsight](https://lnnodeinsight.com/)
+-   [Bitcoin Visuals](https://bitcoinvisuals.com/lightning)
+-   [Lightning Boost](https://lightningboost.info/)
+-   [Lndecode](https://lndecode.com/)
+-   [OP\_Return Bot](https://opreturnbot.com/)
+
+#### Servicios y Soluciones
+
+-   [Satoshi stream](https://satoshis.stream/#-for-podcast-creators) gana SATS con tu podcast
+-   [LNbits](https://lnbits.com/) Extensiones para su nodo
+-   [NextPay](https://github.com/apotdevin/NextPay)Su propio servidor LNURL-Pay construido en NextJS.
+-   [Redphone](https://github.com/pseudozach/redphone) Servicio telefónico para tu nodo de lightning, llamadas telefónicas privadas a través de LN
+-   [Juggernaut](https://www.getjuggernaut.com/) Mensajería, pagos y mensajes de punto a punto cifrados de extremo a extremo,
+-   [Lightning Decoder](https://lightningdecoder.com/) Decodifica solicitudes de Lightning Network BOLT11, LNURL y dirección Lightning
+-   [Lightning Polar](https://lightningpolar.com/) Crear configuraciones de prueba de LN
+-   [Lit-subscriptions](https://github.com/bucko13/lit-subscriptions) Sistema de suscripción/donación p2p
+-   [RoboSats](https://github.com/RoboSats/robosats) Cree su propio intercambio P2P sobre LN, privado, soporte Tor
+-   [Bumi/Inme](https://github.com/bumi/lnme) Su amigable Bitcoin Lightning ⚡ página de pago ⚡
+
+#### Bots
+
+-   [Cheese Bot](https://t.me/cheeserobot)
+-   [Rings Of Fire GUI](https://github.com/Rings-of-Fire/ring-of-fire)
+-   [Lightning Adress Bot](https://t.me/lnaddressbot) Cree su propio intercambio P2P sobre LN, privado, soporte Tor
+
+#### Nodos
+
+-   [Umbrel](https://umbrel.com/)
+-   [My Node](https://mynodebtc.com/)
+-   [Raspi Blitz](https://raspiblitz.org/)
+-   [Start9](https://start9.com/)
+-   [Nodl](https://www.nodl.eu/nodlbox)
+-   [Voltage](https://voltage.cloud/)
+-   [Blockstream](https://blockstream.com/lightning/greenlight/)
+-   [BTCPay Server](https://btcpayserver.org/)
+
+#
+
+# Más de Bitcoin
+
+#### Guias & Blogs
+
+[Darthcoin-Substack](https://darthcoin.substack.com/s/espanol)
+
+[Dinero Sin Reglas-Decentralized](https://dinerosinreglas.com/)
+
+[Guia Seguridad de Bitcoin 10x](https://btcguide.github.io/)
+
+[Nobsbitcoin](https://www.nobsbitcoin.com/)
+
+[Bitcoiner.guide](https://bitcoiner.guide/)
+
+[Hodlers](https://hodlers.es/bitcoin)
+
+[Desobediente Tecnilogico](https://desobedientetecnologico.gitlab.io/blog/)  
+
+#### Foros
+
+[Bitcoin-Talk](https://bitcointalk.org/)
+
+[Subforo Bitcoin Reddit](https://www.reddit.com/r/Bitcoin/)
+
+[Satoshi Nakamoto Institute](https://satoshi.nakamotoinstitute.org/)
+
+#
+
+# Airdrops
+
+
+Explora esta selección de los mejores airdrops disponibles y aprovecha la oportunidad de obtener criptomonedas de forma gratuita. Los airdrops son distribuciones gratuitas de tokens que te permiten sumergirte en el emocionante mundo de las criptomonedas sin tener que realizar ninguna inversión significativa. 
+
+Descubre cómo participar en los airdrops y asegúrate de estar al tanto de las últimas oportunidades para obtener tokens gratis. 
+
+#### Herramientas
+- [Wenser](https://www.wenser.xyz/check/wormhole)
+- [Leshka.eth](https://miro.com/app/board/uXjVMBxJR6c=/)
+- [Airdrops.io](https://airdrops.io/)
+- [Defillama Airdrops](https://defillama.com/airdrops)
+- [Airdrop Organizer](https://docs.google.com/spreadsheets/u/0/d/1wJteV-tb5Ex59H6joH66YDHIP7BPyGxlFubsgWc6Xr4/htmlview#)
+- [All Airdrops Rumors](https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/edit#gid=285938713)
+- [Earni.fi](https://earni.fi/account)
+- [Earndrop.io](https://earndrop.io/login)
+
+#### Canales Telegram
+
+- [Olimpio](https://t.me/OlimpioAlpha)
+- [AnyDropForYou](https://t.me/Anydropforyou)
+- [Airdrop Oficial](https://t.me/airdropofficial7)
+- [Chase The Challenge](https://t.me/ChasetheChallenge)
+- [Corleone Alpha](https://t.me/CorleoneAlpha)
+- [Airdrops_io](https://t.me/airdrops_io)
+- [Defi Airdrops](https://t.me/+Stjobn_4QE1h2xCm)
+- [Ardizor Alpha](https://t.me/ardizor_alpha)
+- [Cyclop Alpha](https://t.me/CyclopAlpha)
+
+**Lista Twitter**
+- [Las Mejores Cuentas De Airdrops](https://twitter.com/i/lists/1611463689986514968?s=20)
+
+#### Agujeros de conejo 
+
+![IMG_2726](https://mataroa.blog/images/73a0e396.jpeg)
+
+
+Una de las mejores maneras de aprender sobre criptomonedas es la práctica personal e involucrarse directamente. Recuerda que el mundo de las criptomonedas es complejo y está en constante evolución. Es importante mantenerse actualizado con las últimas noticias y desarrollos en la industria. Además, siempre ten presente los riesgos asociados con las inversiones en criptomonedas y asegúrate de realizar una investigación adecuada antes de tomar decisiones financieras.
+
+>"Esta es una lista de agujeros de conejo para sumergirse en web3"
+
+#### Tareas y Quests
+
+
+Los rumores de airdrops siempre están presentes, mejor prepare un café e inicie el día con estas apps, la actividad continúa ha sido requisito en la mayoría de lanzamientos 🚀 
+
+- [Rabbithole ](https://rabbithole.gg/)
+- [Galxe](https://galaxy.eco/)
+- [Quest3](https://quest3.xyz/)
+- [Cyberconnet](https://link3.to/cyberconnect)
+- [Coinvise](https://www.coinvise.co/feed)
+- [Dappback](https://dappback.com/)
+- [StarknestQuest](https://starknet.quest/)
+- [Dequest](https://beta.dequest.io/)
+- [Learnweb3](https://www.learnweb3.io/)
+- [Mygateway](https://www.mygateway.xyz/)
+- [Guild](https://guild.xyz/explorer)
+- [101](https://101.xyz/)
+- [Noox](https://noox.world/)
+- [Clique](https://provenance.clique.social/)
+- [Soquest ](https://soquest.xyz/)
+- [Openmeta](https://nft.openmeta.finance/#/airdrop/list?lang=es-ES)
+- [Wonderverse](https://app.wonderverse.xyz/explore)
+- [Link3](https://link3.to/)
+- [Etherscore ](https://alpha.etherscore.network/badges)
+- [Intract](https://quest.intract.io/quest/64b7a6b0b549e0360fa6456d?userRef=MZWEAw)
+- [Degame](https://m.degame.com/)
+  
+
+#
+
 
 
 ## Apoyo:
