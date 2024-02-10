@@ -119,6 +119,21 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Odos](https://app.odos.xyz/)
 - [Avnu](https://app.avnu.fi/es)
 - [Slingshot](https://app.slingshot.finance/swap/Ethereum/ETH)
+- [Aptos Swap](https://aptoswap.net/app/) Wormehole
+- [Ariesmarkets](https://app.ariesmarkets.xyz/lending) Wormehole
+- [Cetus](https://app.cetus.zone/swap?from=0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN&to=0x2::sui::SUI) Wormehole
+- [Folks](https://app.folks.finance/) Wormehole
+- [Jupiter](https://jup.ag/swap/WEN-SOL) Wormehole
+- [Magpiefi](https://beta.magpiefi.xyz/tutorial) Wormehole
+- [Mango Markets](https://app.mango.markets/es) Wormehole
+- [Orca](https://www.orca.so/) Wormehole
+- [Pangea Swap](https://www.pangeaswap.com/) Wormehole
+- [Stella Swap](https://app.stellaswap.com/exchange/swap) Wormehole
+- [Tulip](https://tulip.garden/swap) Wormehole
+- [Ubeswap](https://app.ubeswap.org/#/swap) Wormehole - Celo
+- [Derpex](https://app.derpdex.com/) Wormehole
+- [Smardex](https://www.smardex.io/swap?chainId=1&tokenA=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&tokenB=0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef) Wormehole
+- [FlowX Finance](https://flowx.finance/swap?coinIn=0x2::sui::SUI&coinOut=0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN) Wormehole
 
 
 # Portafolio
@@ -185,6 +200,13 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Owlto](https://owlto.finance/bridge)
 - [Polygon zkEVM Bridge](https://wallet.polygon.technology/?redirectOnConnect=%2FzkEVM-Bridge%2Fbridge)
 - [Squid](https://app.squidrouter.com/) (Cosmos - Ethereum)
+- [Mayanswap](https://swap.mayan.finance/) Ethereum - Solana - Avalanche BSC
+- [Allbridge](https://core.allbridge.io/?f=SOL&ft=USDC&t=ARB&tt=USDC) Whormhole
+- [Carrier](https://www.carrier.so/) Whormhole
+- [Portal](https://portalbridge.com/) Whormhole
+- [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) Whormhole
+- [MessinaOne](https://messina.one/) Whormhole
+
 
 #
 
