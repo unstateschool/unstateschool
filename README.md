@@ -17,6 +17,8 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/unstateschool) [![Twitter](https://img.shields.io/badge/Twitter-black)](https://twitter.com/unstateschool) [![Blog](https://img.shields.io/badge/Blog-red)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
 [![Email](https://img.shields.io/badge/Mail-purple)](mailto:unstateschool@protonmail.com)
+[![Farcaster](https://img.shields.io/badge/Farcaster-purple-dark)](https://warpcast.com/~/channel/unstateschool)
+
 
 
 
