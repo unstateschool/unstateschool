@@ -208,6 +208,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Portal](https://portalbridge.com/) Whormhole
 - [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) Whormhole
 - [MessinaOne](https://messina.one/) Whormhole
+- [Mesonfi](https://meson.fi/) Multicadena
 
 
 #
