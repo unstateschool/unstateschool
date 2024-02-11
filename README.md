@@ -136,7 +136,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Derpex](https://app.derpdex.com/) Wormehole
 - [Smardex](https://www.smardex.io/swap?chainId=1&tokenA=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&tokenB=0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef) Wormehole
 - [FlowX Finance](https://flowx.finance/swap?coinIn=0x2::sui::SUI&coinOut=0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN) Wormehole
-
+- [Merlinswap](https://merlinswap.org/trade/swap)
 
 # Portafolio
 
@@ -377,6 +377,12 @@ Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin
 -   [BTCPay Server](https://btcpayserver.org/)
 
 #
+
+#### Ordinals
+
+- [Ordiscan](https://ordiscan.com/address/bc1qys3cyp65czkmrucxj5vhquw75j58q9255hsdue/runes) Explorador
+- [Ordinals Explorer](https://www.ord.io/) Explorador
+- [Saturn](https://www.saturnbtc.io/app/swap/rug-sat) Exchange
 
 # Más de Bitcoin
 
