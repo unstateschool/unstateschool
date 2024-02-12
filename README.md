@@ -39,6 +39,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 |         Mensajeria                   | [Acceder](https://github.com/unstateschool/unstateschool#mensajeria)                                                      |
 |         Bitcoin Onchain              | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-onchain)                                                 |
 |         Bitcoin Lightning            | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-lightning)                                               |
+|         ordinals                     | [Acceder](https://github.com/unstateschool/unstateschool#ordinals)                                                        |
 |         Más de Bitcoin               | [Acceder](https://github.com/unstateschool/unstateschool#más-de-bitcoin)                                                  |
 |         Airdrops                     | [Acceder](https://github.com/unstateschool/unstateschool#airdrops)                                                        |
 
@@ -378,11 +379,15 @@ Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin
 
 #
 
-#### Ordinals
+# Ordinals
 
 - [Ordiscan](https://ordiscan.com/address/bc1qys3cyp65czkmrucxj5vhquw75j58q9255hsdue/runes) Explorador
 - [Ordinals Explorer](https://www.ord.io/) Explorador
 - [Saturn](https://www.saturnbtc.io/app/swap/rug-sat) Exchange
+- [Ordiswap](https://app.ordiswap.fi/swap) Exchange
+
+#
+
 
 # Más de Bitcoin
 
