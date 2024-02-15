@@ -35,6 +35,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 |         portafolio                   | [Acceder](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
 |         Analisis                     | [Acceder](https://github.com/unstateschool/unstateschool#analisis)                                                        |
 |         Puentes                      | [Acceder](https://github.com/unstateschool/unstateschool#puentes)                                                         |
+|         Marketplace NFTs             | [Acceder](https://github.com/unstateschool/unstateschool#marketplace-nfts)                                                |
 |         Revocar Aprovaciones         | [Acceder](https://github.com/unstateschool/unstateschool#revocar-aprovaciones)                                            |
 |         Mensajeria                   | [Acceder](https://github.com/unstateschool/unstateschool#mensajeria)                                                      |
 |         Bitcoin Onchain              | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-onchain)                                                 |
@@ -215,6 +216,13 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 #
 
+# Marketplace NFTs 
+- [rarible](https://rarible.com/)
+- [Immutable](https://market.immutable.com/)
+- [tokentrove](https://tokentrove.com/)
+
+#
+
 # Revocar aprovaciones
 - [Revoke](https://revoke.cash/es) Revocar permisos 
 - [Redefine](https://dashboard.redefine.net/)
@@ -386,6 +394,7 @@ Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin
 - [Ordinals Explorer](https://www.ord.io/) Explorador
 - [Saturn](https://www.saturnbtc.io/app/swap/rug-sat) Exchange
 - [Ordiswap](https://app.ordiswap.fi/swap) Exchange
+- [Liquidium](https://app.liquidium.fi/ordinals) Prestar y pedir prestado
 
 #
 
