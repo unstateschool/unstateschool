@@ -220,7 +220,8 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [rarible](https://rarible.com/)
 - [Immutable](https://market.immutable.com/)
 - [tokentrove](https://tokentrove.com/)
-
+- [Pyramid](https://pyramid.market/)
+- [Magic Eden](https://magiceden.io/)
 #
 
 # Revocar aprovaciones
@@ -390,11 +391,36 @@ Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin
 
 # Ordinals
 
+#### Exploradores
+
 - [Ordiscan](https://ordiscan.com/address/bc1qys3cyp65czkmrucxj5vhquw75j58q9255hsdue/runes) Explorador
 - [Ordinals Explorer](https://www.ord.io/) Explorador
+
+#### Wallets
+- 
+
+#### Exchange
+
 - [Saturn](https://www.saturnbtc.io/app/swap/rug-sat) Exchange
 - [Ordiswap](https://app.ordiswap.fi/swap) Exchange
+
+#### DeFi
 - [Liquidium](https://app.liquidium.fi/ordinals) Prestar y pedir prestado
+
+#### marketplace
+- [Magic Eden](https://magiceden.io/)
+- [BRC420](https://brc420.io/)
+
+#### Portafolio
+- [geniidata](https://geniidata.com/ordinals/)
+
+
+#### Infraestructura - Inscripciones
+- [Ordinalsbot](https://ordinalsbot.com/)
+- [Geniidata](https://geniidata.com/ordinals/inscribe/brc20?ref=BI3FBF)
+- [Luminex](https://luminex.io/ordinals/mint)
+- 
+
 
 #
 
