@@ -80,12 +80,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Talisman](https://talisman.xyz/)
 - [Nova](https://novawallet.io/)
 
-#### Ordinals
-
-- [Xverse](https://www.xverse.app/)
-- [Unisat](https://unisat.io/)
-- [magic Eden](https://chromewebstore.google.com/detail/magic-eden-wallet/mkpegjkblkkefacfnmkajcjmabijhclg)
-- [Ordinals Wallet](https://ordinalswallet.com/)
+#
 
 #### Cosmos
 
@@ -218,10 +213,13 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 # Marketplace NFTs 
 - [rarible](https://rarible.com/)
+- [Opensea](https://opensea.io/)
 - [Immutable](https://market.immutable.com/)
 - [tokentrove](https://tokentrove.com/)
 - [Pyramid](https://pyramid.market/)
 - [Magic Eden](https://magiceden.io/)
+
+
 #
 
 # Revocar aprovaciones
@@ -397,7 +395,11 @@ Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin
 - [Ordinals Explorer](https://www.ord.io/) Explorador
 
 #### Wallets
-- 
+
+- [Xverse](https://www.xverse.app/)
+- [Unisat](https://unisat.io/)
+- [magic Eden](https://chromewebstore.google.com/detail/magic-eden-wallet/mkpegjkblkkefacfnmkajcjmabijhclg)
+- [Ordinals Wallet](https://ordinalswallet.com/)
 
 #### Exchange
 
