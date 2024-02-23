@@ -240,8 +240,8 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 #
 
 # Mensajeria
--  [DeBank](https://debank.com/) Portafolio y mensajería incluida 
--  [NFT chat](https://nftychat.xyz/universe) Chatea y explora las comunidades web3.
+- [DeBank](https://debank.com/) Portafolio y mensajería incluida 
+- [NFT chat](https://nftychat.xyz/universe) Chatea y explora las comunidades web3.
 - [Mailchain](https://app.mailchain.com/register) Tu bandeja de entrada Web3 
 - [Parallel Inbox](https://inb0x.life/) Mensajes de cartera a cartera 
 - [Alter](https://alter.network/) Chatea, envía mensajes y comparte archivos con total privacidad!  
@@ -471,6 +471,7 @@ Descubre cómo participar en los airdrops y asegúrate de estar al tanto de las 
 - [All Airdrops Rumors](https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/edit#gid=285938713)
 - [Earni.fi](https://earni.fi/account)
 - [Earndrop.io](https://earndrop.io/login)
+- [DayLight](https://www.daylight.xyz/)
 
 #### Canales Telegram
 
