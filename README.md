@@ -160,7 +160,9 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [CoinMarketCap](https://coinmarketcap.com/portfolio-tracker/) Seguimiento de proyectos 
 - [DotMarketCap](https://www.dotmarketcap.com/) Seguimiento de proyectos 
 - [Cypher Hunter](https://www.cypherhunter.com/es/) 
-- [Gecko Terminal](https://www.geckoterminal.com/es) Seguimiento de proyectos en DEX 
+- [Gecko Terminal](https://www.geckoterminal.com/es) Seguimiento de proyectos en DEX
+- [Ave.ai](https://ave.ai/home)
+- [Dexscreener](https://dexscreener.com/)
 - [Crunchbase](https://www.crunchbase.com/)
 - [Dune Analytics](https://dune.com/browse/dashboards) Analisis de cadenas 
 - [Arkham](https://platform.arkhamintelligence.com/) Seguimiento de billeteras 
