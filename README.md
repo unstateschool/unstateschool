@@ -104,6 +104,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Uniswap](https://app.uniswap.org/#/swap?chain=mainnet)
 - [Sushiswap](https://www.sushi.com/)
 - [Zigzag](https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync)
+- [Pancakeswap](https://pancakeswap.finance/)
 - [Honeysawp](https://app.honeyswap.org/#/swap)
 - [1inch](https://1inch.io/)
 - [Quickswap](https://quickswap.exchange/#/swap)
