@@ -139,6 +139,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Zkp2p](https://zkp2p.xyz/swap) Sin necesidad de una billetera - Base
 - [Jumper](https://jumper.exchange/)
 - [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) EVM L2
+- [Aperture](https://app.aperture.finance/swap) EVM L2
 
 # Portafolio
 
