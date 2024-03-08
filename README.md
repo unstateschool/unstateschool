@@ -140,7 +140,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Jumper](https://jumper.exchange/)
 - [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) EVM L2
 - [Aperture](https://app.aperture.finance/swap) EVM L2
-- [usenexus](https://www.usenexus.org/) Hyperlane
+
 
 # Portafolio
 
@@ -215,7 +215,8 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) Whormhole
 - [MessinaOne](https://messina.one/) Whormhole
 - [Mesonfi](https://meson.fi/) Multicadena
-- [Nautilus](https://www.nautilusbridge.com/)
+- [Nautilus](https://www.nautilusbridge.com/) Hyperlane
+- [Hyperlane Nexus](https://www.usenexus.org/)
 
 
 #
