@@ -30,19 +30,19 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 
 |         Tema                         | Acceso Directo                                                                                                            |
 | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|         Billeteras                   | [Acceder](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
-|         Intercambios                 | [Acceder](https://github.com/unstateschool/unstateschool#dex)                                                             |
-|         portafolio                   | [Acceder](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
-|         Analisis                     | [Acceder](https://github.com/unstateschool/unstateschool#analisis)                                                        |
-|         Puentes                      | [Acceder](https://github.com/unstateschool/unstateschool#puentes)                                                         |
-|         Marketplace NFTs             | [Acceder](https://github.com/unstateschool/unstateschool#marketplace-nfts)                                                |
-|         Revocar Aprovaciones         | [Acceder](https://github.com/unstateschool/unstateschool#revocar-aprovaciones)                                            |
-|         Mensajeria                   | [Acceder](https://github.com/unstateschool/unstateschool#mensajeria)                                                      |
-|         Bitcoin Onchain              | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-onchain)                                                 |
-|         Bitcoin Lightning            | [Acceder](https://github.com/unstateschool/unstateschool#bitcoin-lightning)                                               |
-|         ordinals                     | [Acceder](https://github.com/unstateschool/unstateschool#ordinals)                                                        |
-|         Más de Bitcoin               | [Acceder](https://github.com/unstateschool/unstateschool#más-de-bitcoin)                                                  |
-|         Airdrops                     | [Acceder](https://github.com/unstateschool/unstateschool#airdrops)                                                        |
+|         Billeteras                   | [Ir](https://github.com/unstateschool/unstateschool#billeteras)                                                      |
+|         Intercambios DEX             | [Ir](https://github.com/unstateschool/unstateschool#dex)                                                             |
+|         portafolio                   | [Ir](https://github.com/unstateschool/unstateschool#portafolio)                                                      |
+|         Analisis                     | [Ir](https://github.com/unstateschool/unstateschool#analisis)                                                        |
+|         Puentes                      | [Ir](https://github.com/unstateschool/unstateschool#puentes)                                                         |
+|         Marketplace NFTs             | [Ir](https://github.com/unstateschool/unstateschool#marketplace-nfts)                                                |
+|         Revocar Aprovaciones         | [Ir](https://github.com/unstateschool/unstateschool#revocar-aprovaciones)                                            |
+|         Mensajeria                   | [Ir](https://github.com/unstateschool/unstateschool#mensajeria)                                                      |
+|         Bitcoin Onchain              | [Ir](https://github.com/unstateschool/unstateschool#bitcoin-onchain)                                                 |
+|         Bitcoin Lightning            | [Ir](https://github.com/unstateschool/unstateschool#bitcoin-lightning)                                               |
+|         Bitcoin Ordinals             | [Ir](https://github.com/unstateschool/unstateschool#ordinals)                                                        |
+|         Más de Bitcoin               | [Ir](https://github.com/unstateschool/unstateschool#más-de-bitcoin)                                                  |
+|         Airdrops                     | [Ir](https://github.com/unstateschool/unstateschool#airdrops)                                                        |
 
 
 #
