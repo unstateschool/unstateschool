@@ -117,8 +117,9 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Balancer](https://app.balancer.fi/?utm_source)
 - [Quickswap](https://quickswap.exchange/#/swap)
 - [Odos](https://app.odos.xyz/)
-- [Avnu](https://app.avnu.fi/es)
-- [Slingshot](https://app.slingshot.finance/swap/Ethereum/ETH)
+- [Syncswap](https://syncswap.xyz/intro) ZkSync Era
+- [Avnu](https://app.avnu.fi/es) Starknet
+- [Slingshot](https://app.slingshot.finance/swap/Ethereum/ETH) EVM, L2
 - [Aptos Swap](https://aptoswap.net/app/) Wormehole
 - [Ariesmarkets](https://app.ariesmarkets.xyz/lending) Wormehole
 - [Cetus](https://app.cetus.zone/swap?from=0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN&to=0x2::sui::SUI) Wormehole
@@ -136,7 +137,8 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [FlowX Finance](https://flowx.finance/swap?coinIn=0x2::sui::SUI&coinOut=0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN) Wormehole
 - [Merlinswap](https://merlinswap.org/trade/swap)
 - [Zkp2p](https://zkp2p.xyz/swap) Sin necesidad de una billetera - Base
-- [Jumper](https://jumper.exchange/) 
+- [Jumper](https://jumper.exchange/)
+- [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) EVM L2
 
 # Portafolio
 
