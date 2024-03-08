@@ -136,6 +136,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [FlowX Finance](https://flowx.finance/swap?coinIn=0x2::sui::SUI&coinOut=0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN) Wormehole
 - [Merlinswap](https://merlinswap.org/trade/swap)
 - [Zkp2p](https://zkp2p.xyz/swap) Sin necesidad de una billetera - Base
+- [Jumper](https://jumper.exchange/) 
 
 # Portafolio
 
@@ -210,6 +211,7 @@ Si desea apoyar este proyecto, puede enviar una donación a la dirección:
 - [Rango](https://app.rango.exchange/swap/BSC.BNB/AVAX_CCHAIN.AVAX/) Whormhole
 - [MessinaOne](https://messina.one/) Whormhole
 - [Mesonfi](https://meson.fi/) Multicadena
+- [Nautilus](https://www.nautilusbridge.com/)
 
 
 #
