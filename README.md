@@ -463,6 +463,9 @@ Si se encuentra en crypto tenga presente que "Todos los caminos llegan a Bitcoin
 
 [Satoshi Nakamoto Institute](https://satoshi.nakamotoinstitute.org/)
 
+### Puntos de Venta
+[Bitcoinize](https://bitcoinize.com/)
+
 #
 
 # Airdrops
